@@ -22,7 +22,7 @@ This project implements a graph-based system to model and optimize transportatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/transport-optimization.git
+   git clone https://github.com/Nikunj-Agarwal/transport-optimization.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -83,12 +83,9 @@ Total Time: 15 minutes
 - Integrate real-world data for more accurate simulations.
 - Implement a graphical interface for better user interaction.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
 - Algorithms inspired by standard graph theory concepts.
-- Special thanks to contributors and reviewers for their feedback.
+- Thankyou to all my teammates for making this project possible.
 
